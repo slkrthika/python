@@ -1,6 +1,9 @@
 ---
 layout: page
 title: About
+author: MK,SR
 ---
 
-Introduce yourself here... so people will know who you are and what you do.. blah..blah..blah..
+This blog is fully based on python,syntax,uses and advantages.
+
+I am S.Muthukrthika pursing my B.E (CSE) at SJIT,Chennai.
