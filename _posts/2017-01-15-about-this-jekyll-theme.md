@@ -1,18 +1,9 @@
 ---
 layout: post
-title: About TextLog - Minimalist, distraction-free and content-focused Jekyll theme
+title: About Python
 tags: [Demo, About]
-author: Heiswayi Nrird
+author: MuthuKrthika
 comment: true
 ---
 
-TextLog is a minimalist, distraction-free and content-focused Jekyll theme. TextLog uses [Droid Sans](https://fonts.google.com/specimen/Droid+Sans) typeface from Google Web Fonts. TextLog also supports [Disqus comment](https://disqus.com/) and [tags](https://heiswayi.github.io/textlog/tagged/)
-
-TextLog post layout contains following structures:
-
-- the post title
-- the post metadata such as date, author name and clickable post tags
-- the post content
-- [Disqus comment](https://disqus.com/) if enabled
-
-TextLog is responsive and mobile-friendly.
+Python is a widely used high-level programming language for general-purpose programming, created by Guido van Rossum and first released in 1991. An interpreted language, Python has a design philosophy which emphasizes code readability (notably using whitespace indentation to delimit code blocks rather than curly braces or keywords), and a syntax which allows programmers to express concepts in fewer lines of code than possible in languages such as C++ or Java. The language provides constructs intended to enable writing clear programs on both a small and large scale.
